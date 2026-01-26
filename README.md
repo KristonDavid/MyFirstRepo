@@ -17,3 +17,14 @@ Paragrafus, sálálál lorem ipsum Paragrafus, sálálál lorem ipsumParagrafus,
 > Kód részlet kiemelve
 
 `AltGr + 7 csinálj ilyen fura backtick idézőjelet`
+
+# Telepítés
+## Kulcs generálás
+> php artisan key:generate
+
+## Adatbázis létrehozsa
+> php artisan migrate --sed
+
+## Szerver futtatása
+> php artisan serve
+
